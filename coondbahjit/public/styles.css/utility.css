@@ -1,0 +1,36 @@
+*{margin: 0; padding: 0;}
+
+.center{
+    text-align: center;
+}
+.m_aout{
+    display: block;
+    margin: auto;
+    width: 95vw;
+}
+.h-prim{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: gray
+
+}
+.s-btn{
+    margin: 2px;
+    padding: 5px 10px;
+    background-color: rgb(221, 211, 211);
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}   
+
+.s-btn:hover{
+    background-color: turquoise;
+    color:white;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
